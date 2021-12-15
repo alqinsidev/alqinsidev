@@ -14,7 +14,7 @@ const App:React.FunctionComponent = () => {
       animateFinished?
       <Routes>
         <Route path="/" element={<Navbar/>}>
-          <Route path="home" element={<Home/>} />
+          <Route index element={<Home/>} />
           <Route path="about" element={<Home/>} />
           <Route path="home" element={<Home/>} />
         </Route>

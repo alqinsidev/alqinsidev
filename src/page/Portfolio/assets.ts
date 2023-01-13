@@ -86,7 +86,7 @@ export const software = {
         framework:[reactNative],
     },
     p6:{
-        image:[ps51,ps52,ps53],
+        image:[ps61,ps62,ps63],
         detail:["Admin Dashboard application for online school pickup system. Show recent activities on the users, handle Data visualization, CRUD system for user information, etc."],
         framework:[react],
     },

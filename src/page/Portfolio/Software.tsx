@@ -9,7 +9,8 @@ const Software = () => {
     return (
         <Container>
             <H5>Software Portfolio</H5>
-            <Card title="Student Pickup System" showcase={software.p5.image} detail={software.p5.detail}  role="Front-end Developer" framework={software.p5.framework}/>
+            <Card title="Student Pickup System Dashboard" showcase={software.p6.image} detail={software.p6.detail}  role="Project Leader / Front End Developer" framework={software.p6.framework}/>
+            <Card title="Student Pickup System Apps" showcase={software.p5.image} detail={software.p5.detail}  role="Project Leader / Mobile Developer" framework={software.p5.framework}/>
             <Card title="IOT Dashboard Monitoring System" caption="More than 3 project for this type" showcase={software.p1.image} detail={software.p1.detail}  role="Full-Stack Developer" framework={software.p1.framework}/>
             <Card title="Smart Device Interface" caption="More than 3 project for this type" showcase={software.p2.image} detail={software.p2.detail} role="Embeeded System Developer" framework={software.p2.framework}/>
             <Card title="Trouble Ticket System"  showcase={software.p3.image} detail={software.p3.detail} role="Full-Stack Developer" framework={software.p3.framework}/>

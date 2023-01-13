@@ -18,7 +18,9 @@ import ps53 from '../../assets/images/project/software/5-3.png'
 import ps54 from '../../assets/images/project/software/5-4.png'
 import ps55 from '../../assets/images/project/software/5-5.png'
 import ps56 from '../../assets/images/project/software/5-6.png'
-
+import ps61 from '../../assets/images/project/software/6-1.png'
+import ps62 from '../../assets/images/project/software/6-2.png'
+import ps63 from '../../assets/images/project/software/6-3.png'
 
 import ph11 from '../../assets/images/project/hardware/1-1.jpg'
 import ph12 from '../../assets/images/project/hardware/1-2.jpg'
@@ -82,7 +84,12 @@ export const software = {
         image:[ps51,ps52,ps53],
         detail:["A mobile application to handle for School which has a pick up queue sytem. The application connect the parents of student, teacher, and also other staff. Handling a pickup request from the parents and a Real-time notification feature based on realtime even drived by user"],
         framework:[reactNative],
-    }
+    },
+    p6:{
+        image:[ps51,ps52,ps53],
+        detail:["Admin Dashboard application for online school pickup system. Show recent activities on the users, handle Data visualization, CRUD system for user information, etc."],
+        framework:[react],
+    },
 }
 
 export const hardware = {

@@ -11,9 +11,9 @@ const Hardware = () => {
             <H5>Hardware Portfolio</H5>
             <Card title="Water Quality Monitoring Buoy" caption="This project has 3 version on it's developement" showcase={hardware.p1.image} detail={hardware.p1.detail}  role="End-to-end IoT System Engineer" />
             <Card title="Long Range (LoRa) Communication" caption="More than 2 project using this technology" showcase={hardware.p2.image} detail={hardware.p2.detail} role="Embeeded System Developer" />
-            <Card title="BLE Social Distancing Alarm" caption="This device has 2 version"  showcase={hardware.p3.image} detail={hardware.p3.detail} role="Full-Stack Developer" />
-            <Card title="Smart Air Purifier" showcase={hardware.p4.image} detail={hardware.p4.detail} role="Full-Stack Developer" />
-            <Card title="Smart Weapon Storage System" showcase={hardware.p5.image} detail={hardware.p5.detail} role="Full-Stack Developer" />
+            <Card title="BLE Social Distancing Alarm" caption="This device has 2 version"  showcase={hardware.p3.image} detail={hardware.p3.detail} role="End-to-end IoT System Engineer" />
+            <Card title="Smart Air Purifier" showcase={hardware.p4.image} detail={hardware.p4.detail} role="End-to-end IoT System Engineer" />
+            <Card title="Smart Weapon Storage System" showcase={hardware.p5.image} detail={hardware.p5.detail} role="End-to-end IoT System Engineer" />
         </Container>
     )
 }

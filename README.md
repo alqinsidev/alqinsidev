@@ -1,4 +1,4 @@
-# <p align="center">Hello 👋🏻, I'am Padlan </p>
+# <p align="center">Hello 👋🏻, I'am Padlan</p>
 <p align="center">I'll Code Everything I need to Code 💻</p>
 
 # 🌐 Connect With Me:

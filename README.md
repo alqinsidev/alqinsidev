@@ -8,6 +8,8 @@ I'll Code Everything I need to Code 💻
 📍 Bandung, Indonesia  
 🌎 [alqinsidev.net](https://alqinsidev.net)  
 🔹 [LinkedIn](https://linkedin.com/in/alqinsi)  
+📕 [Medium](https://medium.com/@padlanalqinsi)
+
 
 
 ---

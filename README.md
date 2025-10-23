@@ -52,6 +52,7 @@ I'm a Software Engineer specializing in backend development, automation, and AI/
 ---
 
 ### 📜 Certifications
+- **Indonesia National Professional Certification Board (BNSP) (2025) - Fullstack Developer**
 - **HackerRank - ReactJS Basic (2022)**
 - **Python Institute - PCAP: Programming Essentials in Python (2021)**
 
